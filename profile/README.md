@@ -15,3 +15,15 @@ _초보자와 전문가를 위해 설계된 대화형 실습으로 GitHub 사용
 
 > :copilot: Copilot을 활용해 실습을 자동으로 생성하는 방법을 단 10분 만에 배울 수 있습니다.  
 [Skills Exercise Creator](https://github.com/skills/exercise-creator) 가이드를 확인해 보세요!
+
+다음 자료들을 활용하여 GitHub 기술을 배우고, 발전시키고, 개선하는 데 도움을 주세요.
+
+| 리소스 | 설명 |
+| ------ | ---- |
+| :mortar_board: [GitHub Learn: Skills 카탈로그](https://learn.github.com/skills) | 사용 가능한 모든 Skills 실습(Exercises)의 전체 카탈로그를 확인할 수 있습니다. |
+| :clipboard: [프로젝트 보드](https://github.com/orgs/skills/projects/6/views/2) | 모든 Skills 실습 전반에 걸쳐 사용자들이 보고한 유효한 이슈와 Pull Request를 추적합니다. |
+| :construction_worker: [실습 생성기 (Exercise Creator)](https://github.com/skills/exercise-creator) | 새로운 실습을 만들고 기존 실습을 업데이트하기 위한 문서와 도구를 제공합니다. |
+| :package: [실습 템플릿 (Exercise Template)](https://github.com/skills/exercise-template) | 새로운 실습을 생성할 때 사용할 수 있는 저장소(Repository) 템플릿입니다. |
+| :toolbox: [실습 툴킷 (Exercise Toolkit)](https://github.com/skills/exercise-toolkit) | 워크플로, 액션, 마크다운 템플릿 등 여러 실습에서 재사용할 수 있는 리소스를 제공합니다. |
+| :bookmark_tabs: [변경 이력 (Changelog)](https://github.com/skills/releases) | Skills 저장소 전반의 실습 및 플랫폼 업데이트에 대한 월간 릴리스 노트를 제공합니다. |
+| :office: [EMU를 위한 Skills](https://github.com/skills/skills-for-emu) | Enterprise Managed User(EMU) 조직에서 GitHub Skills를 활성화하기 위한 가이드라인을 제공합니다. |
